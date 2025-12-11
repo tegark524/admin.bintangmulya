@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fc-event {
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+.fc-event .fc-event-main-frame {
+    padding: 2px;
+}
+
+.fc-event-title {
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.fc-event-status {
+    font-size: 0.75em;
+    opacity: 0.8;
+}
+
+/* Navbar Customization */
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-badge {
+    font-size: 0.6rem;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
+/* Footer Customization */
+.main-footer {
+    background: #f4f6f9;
+    padding: 1rem;
+    border-top: 1px solid #dee2e6;
+}
