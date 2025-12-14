@@ -58,7 +58,7 @@ Berikut adalah fitur-fitur unggulan yang tersedia dalam aplikasi:
 ## 📸 Tangkapan Layar
 
 <div align="center">
-  <img src="[https://via.placeholder.com/800x400?text=Dashboard+Screenshot](https://drive.google.com/file/d/135wPykxUEIhtD2B4x4Hk0SWcbZO2_6kl/view?usp=drive_link)" alt="Dashboard" />
+  <img src="https://drive.google.com/file/d/135wPykxUEIhtD2B4x4Hk0SWcbZO2_6kl/view?usp=drive_link" alt="Dashboard" />
   <p><i>Tampilan Dashboard Admin</i></p>
 </div>
 
