@@ -55,12 +55,6 @@ Berikut adalah fitur-fitur unggulan yang tersedia dalam aplikasi:
 -   **Testing:** Pest PHP
 -   **Charts:** Chart.js / Flot (via AdminLTE plugins)
 
-## 📸 Tangkapan Layar
-
-<div align="center">
-  <img src="https://drive.google.com/file/d/135wPykxUEIhtD2B4x4Hk0SWcbZO2_6kl/view?usp=drive_link" alt="Dashboard" />
-  <p><i>Tampilan Dashboard Admin</i></p>
-</div>
 
 ## 🚀 Instalasi & Konfigurasi
 
